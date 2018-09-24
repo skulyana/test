@@ -5,6 +5,8 @@ public class Hello {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello, world from GIT!");
+		
+		System.out.println("Changes After First Commit");
 
 	}
 
